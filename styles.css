@@ -1,6 +1,26 @@
 nav {
     display:flex;
     justify-content:flex-start;
-    background-image:url("https://i.pinimg.com/564x/55/5e/38/555e3828e7e43daa5ad49bff83af22dd.jpg")
+    
+    
+  }
+.body {
+    background-image:url("https://i.pinimg.com/564x/55/5e/38/555e3828e7e43daa5ad49bff83af22dd.jpg");
+    background-size:cover;
+
+}
+
+nav>ul>li>a{
+    padding:5px;
+    text-transform:uppercase;
+    text-decoration:underline;
+    display:inline-block;
+    color:inherit;
+    border:1px solid white;
+    font-size:30px;
+    margin:5px;
+    background-color: crimson;
+    
+  
     
   }
