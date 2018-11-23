@@ -1,6 +1,5 @@
 .body {
     background-image: url("https://i.pinimg.com/564x/df/a1/e9/dfa1e967e59b69c16a187a777d8dcf7e.jpg");
-    /* background-size:cover; */
 
 }
 
@@ -17,7 +16,7 @@ nav>ul>li>a{
     text-decoration:none;
     display:inline-flex;
     color:inherit;
-    /*border:1px solid white;*/
+    border:1px solid white;
     font-size:30px;
     margin:5px;
     background-color: crimson;
