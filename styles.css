@@ -82,3 +82,10 @@ p {
     background-color: green;
     margin: 80px;
 }
+
+.footer {
+    text-align: center;
+    image-rendering: auto;
+    background-image:url("http://www.geeksnboobz.nl/geek-stuff/vette-case-mods-1106/")
+}
+
