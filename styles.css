@@ -54,7 +54,7 @@ h3 {
     font-size: 35px;
 }
 li {
-    float: left;
+    /* float: left; */
     display: inline;
 }
 
