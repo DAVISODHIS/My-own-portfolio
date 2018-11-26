@@ -100,5 +100,6 @@ p {
 img {
     border: 1px solid black;
     background-color: darkgreen;
-    float: inherit
+    float: inherit;
+    
 }
