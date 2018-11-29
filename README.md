@@ -21,6 +21,7 @@ This is a website that allows game lovers to get any type of game that is used i
 ------------------------------------------------------------------------
 Project setup
 Project is setup through the github by creating a repository on Github and linking it to a terminal and getting to the terminal and then entering "git init" and then "git add" and later "git commit" and "git push" to a master branch.
+####PROJECT LINK:https://github.com/DAVISODHIS/My-own-portfolio/ 
 ------------------------------------------------------------------------
 ##Technologies Used
 *css
@@ -29,5 +30,7 @@ Project is setup through the github by creating a repository on Github and linki
 ##Support and contact details
 For assistance and Queries please email opondodav201994@gmail.com
 ------------------------------------------------------------------------
-
+### Lincense
+MIT
+Copyright (c) 2018 DAVIS OPONDO
  
